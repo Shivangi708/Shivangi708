@@ -1,6 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hey
-<img width="58" src="https://camo.githubusercontent.com/df4fb9a38043d36f53a99506dc11314da83a1053019f90366c4f13f331d5d824/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f33372f31322f62393337313237336165393461393436653932303734643162393639363638302e676966"></img>
+<img width="58"; position:relative; top:200px src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif"></img>
 , I'm Shivangi_Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India and love applying responsive design.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966"></img>
