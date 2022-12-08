@@ -16,13 +16,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🔭 I’m currently working on **My Reactjs Project**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **tshivu78@gmail.com**
+- 📫 How to reach me **shivangitiwari701@gmail.com**
 
 - ⚡ Fun fact **Without requirements or design, programming is the art of adding bugs to an empty file.**
 
