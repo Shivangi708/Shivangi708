@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **shivangitiwari701@gmail.com**
+- 📫 How to reach me **tshivu78@gmail.com**
 
 - ⚡ Fun fact **Without requirements or design, programming is the art of adding bugs to an empty file.**
 
